@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.1
+Created-By: 1.8.0_171-b11 (Oracle Corporation)
+Main-Class: ftxml.DropFrame
+info: : jErgoSoft FatturaXML 2018
+Class-Path: FatturaXML.jar
+
