@@ -1,5 +1,5 @@
 # fatturaXMLview
-Visualizzatore Fattura XML italiana (Italian Only Invoice Viewer)
+Visualizzatore Fattura XML italiana (Italian Only Invoice Viewer) scritto in java
 
 ho creato questo semplice visualizzatore che interpreta i file XML di fattura elettronica e li mostra come pdf o come html.
 
